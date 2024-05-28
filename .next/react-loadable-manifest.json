@@ -1,0 +1,68 @@
+{
+  "..\\components\\ChatBot\\ChatBot.jsx -> recordrtc": {
+    "id": "..\\components\\ChatBot\\ChatBot.jsx -> recordrtc",
+    "files": [
+      "static/chunks/node_modules_recordrtc_RecordRTC_js.js"
+    ]
+  },
+  "..\\components\\Home\\Home.jsx -> @/components/Home/Slider": {
+    "id": "..\\components\\Home\\Home.jsx -> @/components/Home/Slider",
+    "files": [
+      "static/chunks/components_Home_Slider_jsx.js"
+    ]
+  },
+  "..\\node_modules\\audio-decode\\audio-decode.js -> @wasm-audio-decoders/flac": {
+    "id": "..\\node_modules\\audio-decode\\audio-decode.js -> @wasm-audio-decoders/flac",
+    "files": [
+      "static/chunks/node_modules_wasm-audio-decoders_flac_index_js.js"
+    ]
+  },
+  "..\\node_modules\\audio-decode\\audio-decode.js -> @wasm-audio-decoders/ogg-vorbis": {
+    "id": "..\\node_modules\\audio-decode\\audio-decode.js -> @wasm-audio-decoders/ogg-vorbis",
+    "files": [
+      "static/chunks/node_modules_wasm-audio-decoders_ogg-vorbis_index_js.js"
+    ]
+  },
+  "..\\node_modules\\audio-decode\\audio-decode.js -> mpg123-decoder": {
+    "id": "..\\node_modules\\audio-decode\\audio-decode.js -> mpg123-decoder",
+    "files": [
+      "static/chunks/node_modules_mpg123-decoder_index_js.js"
+    ]
+  },
+  "..\\node_modules\\audio-decode\\audio-decode.js -> node-wav": {
+    "id": "..\\node_modules\\audio-decode\\audio-decode.js -> node-wav",
+    "files": [
+      "static/chunks/node_modules_node-wav_index_js.js"
+    ]
+  },
+  "..\\node_modules\\audio-decode\\audio-decode.js -> ogg-opus-decoder": {
+    "id": "..\\node_modules\\audio-decode\\audio-decode.js -> ogg-opus-decoder",
+    "files": [
+      "static/chunks/node_modules_ogg-opus-decoder_index_js.js"
+    ]
+  },
+  "..\\node_modules\\audio-decode\\audio-decode.js -> qoa-format": {
+    "id": "..\\node_modules\\audio-decode\\audio-decode.js -> qoa-format",
+    "files": [
+      "static/chunks/node_modules_qoa-format_index_js.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__app_js.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__error_js.js"
+    ]
+  },
+  "index.js -> @/components/ChatBot/ChatBot": {
+    "id": "index.js -> @/components/ChatBot/ChatBot",
+    "files": [
+      "static/chunks/components_ChatBot_ChatBot_jsx.js"
+    ]
+  }
+}
